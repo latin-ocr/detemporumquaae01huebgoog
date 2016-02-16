@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./detemporumquaae01huebgoog_0006.png"; bbox 0 0 2938 4846; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 496 1847 868 1959">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 496 1847 868 1959">
+     <span class='ocr_line' id='line_1_1' title="bbox 496 1847 868 1959; baseline 0.003 -3"><span class='ocrx_word' id='word_1_1' title='bbox 496 1847 716 1959; x_wconf 73' lang='lat' dir='ltr'>Henrioo</span> <span class='ocrx_word' id='word_1_2' title='bbox 753 1847 868 1958; x_wconf 74' lang='lat' dir='ltr'>Keil</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 500 2086 867 2198">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 500 2086 867 2198">
+     <span class='ocr_line' id='line_1_2' title="bbox 500 2086 867 2198; baseline -0.005 -1"><span class='ocrx_word' id='word_1_3' title='bbox 500 2087 638 2198; x_wconf 79' lang='lat' dir='ltr'>Julio</span> <span class='ocrx_word' id='word_1_4' title='bbox 674 2086 867 2198; x_wconf 73' lang='lat' dir='ltr'>Zaoher</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 375 2529 993 2612">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 375 2529 993 2612">
+     <span class='ocr_line' id='line_1_3' title="bbox 375 2529 993 2612; baseline 0.002 -20"><span class='ocrx_word' id='word_1_5' title='bbox 375 2530 694 2612; x_wconf 76' lang='lat' dir='ltr'>praeceptoribus</span> <span class='ocrx_word' id='word_1_6' title='bbox 722 2529 993 2594; x_wconf 77' lang='lat' dir='ltr'>dilectissimis</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 617 2939 751 2985">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 617 2939 751 2985">
+     <span class='ocr_line' id='line_1_4' title="bbox 617 2939 751 2985; baseline 0.007 -1"><span class='ocrx_word' id='word_1_7' title='bbox 617 2939 751 2985; x_wconf 69' lang='lat' dir='ltr'><strong>sassrum.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1474 4846">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1474 4846">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1474 4846; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1474 4846; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
